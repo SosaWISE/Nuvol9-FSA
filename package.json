@@ -23,7 +23,7 @@
     "zone.js": "0.8.26"
   },
   "devDependencies": {
-    "@angular/compiler-cli": "7.1.1",
+    "@angular/compiler-cli": "^7.1.4",
     "@types/chai": "4.1.7",
     "@types/meteor": "1.4.23",
     "@types/mocha": "5.2.5",

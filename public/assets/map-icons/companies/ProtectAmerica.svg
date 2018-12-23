@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 17 17" style="enable-background:new 0 0 17 17;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{font-family:'Helvetica';}
+	.st2{font-size:5px;}
+</style>
+<path d="M2.94,16.13V0.81c0-0.35,0.28-0.63,0.63-0.63h9.82c0.35,0,0.63,0.28,0.63,0.63v15.32c0,0.35-0.28,0.63-0.63,0.63H3.57
+	C3.22,16.76,2.94,16.48,2.94,16.13z"/>
+<g>
+	<path class="st0" d="M4.94,2.93H6.6c0.97,0,1.56,0.58,1.56,1.41v0.01c0,0.94-0.73,1.43-1.64,1.43H5.83v1.22H4.94V2.93z M6.54,4.98
+		c0.45,0,0.71-0.27,0.71-0.62V4.35c0-0.4-0.28-0.62-0.73-0.62H5.83v1.24H6.54z"/>
+	<path class="st0" d="M9.8,2.9h0.82l1.74,4.1h-0.94l-0.37-0.91H9.35L8.97,6.99H8.06L9.8,2.9z M10.75,5.29l-0.54-1.32L9.67,5.29
+		H10.75z"/>
+</g>
+<g>
+	<text id="year" transform="matrix(1 0 0 1 5.5635 14.9287)" class="st0 st1 st2">16</text>
+</g>
+<script type="text/javascript"><![CDATA[
+function getUrlParameter(name) {
+    name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
+    var regex = new RegExp('[\\?&]' + name + '=([^&#]*)');
+    var results = regex.exec(location.search);
+    return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
+};
+    var yearEl = document.getElementById('year');
+	var year = getUrlParameter('year');
+
+	if (yearEl && year) {
+		yearEl.innerHTML = year;
+	}
+
+]]></script>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 17 17" style="enable-background:new 0 0 17 17;" xml:space="preserve">
+	<style type="text/css">
+		.st0{fill:#2B3990;}
+		.st1{fill:#FFFFFF;}
+		.st2{font-family:'Helvetica';}
+		.st3{font-size:3.4721px;}
+	</style>
+	<path class="st0" d="M16.67,4.63l-4.4-4.33c-0.19-0.18-0.44-0.29-0.7-0.29l-6.27,0c-0.27,0-0.52,0.11-0.71,0.3L0.32,4.65
+		c-0.18,0.19-0.29,0.44-0.29,0.7v6.16c0,0.26,0.1,0.51,0.28,0.69l4.35,4.49C4.85,16.89,5.11,17,5.38,17l6.27,0
+		c0.27,0,0.53-0.11,0.72-0.31l4.32-4.53c0.18-0.19,0.28-0.43,0.28-0.69l0-6.14C16.97,5.07,16.86,4.82,16.67,4.63z"/>
+	<g>
+		<path class="st1" d="M4.8,4.41h0.86L7.49,8.7H6.51L6.12,7.74h-1.8L3.93,8.7H2.98L4.8,4.41z M5.79,6.92L5.22,5.54L4.66,6.92H5.79z"
+			/>
+		<path class="st1" d="M7.29,4.44h1.66c1.34,0,2.26,0.92,2.26,2.12v0.01c0,1.2-0.92,2.13-2.26,2.13H7.29V4.44z M8.23,5.29v2.57h0.72
+			c0.77,0,1.28-0.52,1.28-1.27V6.57c0-0.75-0.52-1.28-1.28-1.28H8.23z"/>
+		<path class="st1" d="M11.94,5.31h-1.29V4.44h3.53v0.86h-1.29V8.7h-0.94V5.31z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 6.3931 14.4062)" class="st1 st2 st3">16</text>
+</svg>

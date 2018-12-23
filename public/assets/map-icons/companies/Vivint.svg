@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 17 17" style="enable-background:new 0 0 17 17;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F7941D;}
+	.st1{fill:#FFFFFF;}
+	.st2{font-family:'Helvetica';}
+	.st3{font-size:5px;}
+</style>
+<circle class="st0" cx="8.44" cy="8.54" r="8.45"/>
+<g>
+	<path class="st1" d="M6.41,4.28h0.99l1.06,2.86l1.06-2.86h0.96L8.84,8.38H8.05L6.41,4.28z"/>
+</g>
+<g>
+	<text id="year" transform="matrix(1 0 0 1 5.3882 14.0977)" class="st1 st2 st3">16</text>
+</g>
+<script type="text/javascript"><![CDATA[
+function getUrlParameter(name) {
+    name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
+    var regex = new RegExp('[\\?&]' + name + '=([^&#]*)');
+    var results = regex.exec(location.search);
+    return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
+};
+    var yearEl = document.getElementById('year');
+	var year = getUrlParameter('year');
+
+	if (yearEl && year) {
+		yearEl.innerHTML = year;
+	}
+
+]]></script>
+</svg>
