@@ -11,6 +11,9 @@ import { TodoAddComponent } from './todo-add/todo-add.component';
 import { TodoListComponent } from './todo-list/todo-list.component';
 import { PageNotFoundComponent } from './page-not-found/page-not-found.component';
 
+//** COMPONENTS IMPORTS */
+import { AUTH_CONTAINER_DECLARATIONS } from './auth';
+
 @NgModule({
   imports: [
     BrowserModule,
@@ -41,7 +44,8 @@ import { PageNotFoundComponent } from './page-not-found/page-not-found.component
     AppComponent,
     TodoAddComponent,
     TodoListComponent,
-    PageNotFoundComponent
+    PageNotFoundComponent,
+    ...AUTH_CONTAINER_DECLARATIONS
   ],
   bootstrap: [
     AppComponent
