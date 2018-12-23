@@ -1,4 +1,4 @@
-# Angular-Meteor Boilerplate
+# Nuvol 9 Field Server Mobile Application
 
 ## Usage
 
